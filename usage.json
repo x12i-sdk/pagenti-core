@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/pagenti-core",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/pagenti-core",
+  "usageRepository": "https://github.com/x12i-sdk/pagenti-core",
+  "sourceRepository": "https://github.com/x12i/pagenti",
+  "sourceCommit": "02d0e5fa7e2bdd167133d6137650f0e63fc6df21",
+  "sourcePackageDirectory": "packages/core",
+  "example": {
+    "title": "Parse a scoped package specification and normalize its manifest",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:04:15.965495+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "32375cb9edb06f3c2794986e175f71f4dea57ccb04b3526f4e0758f91b493e96",
+    "manifestSha256": "ed7413c77a81f1b76c615630e9c390c95e03aff7db10415a46bedd8e6c9b912e"
+  },
+  "validationFiles": {
+    "src/index.mjs": "32375cb9edb06f3c2794986e175f71f4dea57ccb04b3526f4e0758f91b493e96"
+  }
+}
